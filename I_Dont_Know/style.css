@@ -1,0 +1,13 @@
+#title-div {
+    width: fit-content;
+    top:500px;
+}
+
+#bttn {
+    width: 100px;
+    height: 30px;
+}
+
+body {
+    background-color: aqua;
+}

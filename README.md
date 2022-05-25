@@ -1,2 +1,2 @@
 # Thingies
-Little stupid thingies that don't deserve their own repository
+Little thingies that don't need their own repository
